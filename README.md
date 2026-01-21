@@ -14,7 +14,7 @@ I’m currently open to **remote opportunities with US-based teams**, where I ca
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Backend
 - Node.js, TypeScript  
@@ -24,7 +24,7 @@ I’m currently open to **remote opportunities with US-based teams**, where I ca
 - Prisma, TypeORM  
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Frontend
 - React, Next.js  
@@ -33,7 +33,7 @@ I’m currently open to **remote opportunities with US-based teams**, where I ca
 - Forms & State Management  
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Infrastructure & Tooling
 - Docker  
@@ -44,7 +44,6 @@ I’m currently open to **remote opportunities with US-based teams**, where I ca
 </td>
 </tr>
 </table>
----
 
 ## 🚀 What I Focus On
 - Designing clean and maintainable backend architectures  
