@@ -51,8 +51,6 @@ I’m currently open to **remote opportunities with US-based teams**, where I ca
 - Translating business requirements into scalable technical solutions  
 - Improving existing systems through refactoring and optimization  
 
----
-
 ## 📌 Featured Projects
 Pinned repositories showcase:
 - Full-stack SaaS-style applications  
@@ -61,22 +59,16 @@ Pinned repositories showcase:
 
 Each project includes documentation, setup instructions, and architectural decisions.
 
----
-
 ## 📈 Currently Improving
 - Advanced TypeScript patterns  
 - System design & backend scalability  
 - Testing strategies for production systems  
 - Cloud-ready application deployment  
 
----
-
 ## 🤝 Open To
 - Remote Full-Stack / Backend-leaning roles  
 - Contract or long-term collaboration  
 - US-based teams and startups  
-
----
 
 ## 📫 Contact
 If you’re interested in working together, feel free to reach out.
