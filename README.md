@@ -1,8 +1,6 @@
 👋 💗 **Hi, I’m Joshua Ugarte** 💗  
-**Full-Stack JavaScript Engineer**  
-Building production-grade web applications since 2019
-
----
+- Full-Stack JavaScript Engineer
+- Building production-grade web applications since 2019
 
 ## 👨‍💻 About Me
 
@@ -11,8 +9,6 @@ I’m a full-stack engineer with hands-on experience designing and shipping real
 My core strength lies in **JavaScript-based systems**, with a strong focus on **TypeScript**, backend architecture, clean APIs, and scalable application design. I care deeply about code quality, long-term maintainability, and building software that solves real business problems—not just demos.
 
 I’m currently open to **remote opportunities with US-based teams**, where I can contribute as a reliable, product-focused engineer.
-
----
 
 ## 🧰 Tech Stack
 
@@ -37,8 +33,7 @@ I’m currently open to **remote opportunities with US-based teams**, where I ca
 - Forms & State Management  
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
 ### Infrastructure & Tooling
 - Docker  
@@ -46,6 +41,9 @@ I’m currently open to **remote opportunities with US-based teams**, where I ca
 - CI/CD fundamentals  
 - Linux environments  
 
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 What I Focus On
