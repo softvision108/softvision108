@@ -12,7 +12,7 @@ I’m currently open to remote opportunities with US-based teams, where I can co
 
 🧰 **Tech Stack**
 
-  <div>
+  <div style="display: flex;">
     <div>
         <h3>- Backend</h3>
         Node.js, TypeScript
