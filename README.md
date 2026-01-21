@@ -12,15 +12,13 @@ I’m currently open to remote opportunities with US-based teams, where I can co
 
 🧰 **Tech Stack**
 
-- Backend
-<pre>
+- Backend<pre>
     Node.js, TypeScript
     Express / NestJS
     REST APIs, Authentication (JWT, RBAC)
     PostgreSQL, MySQL, MongoDB
     Prisma / TypeORM
 </pre>
-
 - Frontend
 
 React, Next.js
