@@ -8,5 +8,3 @@ I excel in leveraging modern technologies like Node.js, React.js, and MongoDB wh
 Passionate about innovation, I constantly explore new ways to push technical boundaries and craft impactful, cutting-edge digital experiences. 
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🏆+Github+Trophies&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000&size=16" width="100%" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=softvision108&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" />
-
