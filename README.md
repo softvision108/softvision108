@@ -12,19 +12,22 @@ I’m currently open to remote opportunities with US-based teams, where I can co
 
 🧰 **Tech Stack**
 
-- Backend<pre>
-    Node.js, TypeScript
-    Express / NestJS
-    REST APIs, Authentication (JWT, RBAC)
-    PostgreSQL, MySQL, MongoDB
-    Prisma / TypeORM
-</pre>
-- Frontend
-
-React, Next.js
-Modern JavaScript (ES6+)
-API integration, forms, state management
-
+  <div>
+    <div>
+        <h3>- Backend</h3>
+        Node.js, TypeScript
+        Express / NestJS
+        REST APIs, Authentication (JWT, RBAC)
+        PostgreSQL, MySQL, MongoDB
+        Prisma / TypeORM
+    </div>
+    <div>
+        <h3>- Frontend</h3>
+        React, Next.js
+        Modern JavaScript (ES6+)
+        API integration, forms, state management
+    </div>      
+  </div>
 - Infrastructure & Tooling
 
 Docker
