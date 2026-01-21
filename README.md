@@ -1,7 +1,6 @@
 👋 💗 **Hi, I’m Joshua Ugarte** 💗
-
-Full-Stack JavaScript Engineer
-Building production-grade web applications since 2019
+- Full-Stack JavaScript Engineer
+- Building production-grade web applications since 2019
 
 👨‍💻  **About Me**
 
