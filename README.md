@@ -43,7 +43,7 @@ My supporting experience includes **Node.js, REST APIs, WebSockets, AWS, Docker,
 
 **Phone:** (512) 387-5213
 **Email:** [christianrichardson.finance@gmail.com](mailto:christianrichardson.finance@gmail.com)
-**LinkedIn:** [LinkedIn](#) · **GitHub:** [GitHub](#)
+**LinkedIn:** [LinkedIn](#)
 
 ---
 
