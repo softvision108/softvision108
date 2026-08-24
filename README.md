@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Christian Richardson
+# 👋 Hi, I’m Christian
 
 ### Frontend Engineer | React | TypeScript | Next.js | AI
 
