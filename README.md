@@ -39,12 +39,6 @@ My supporting experience includes **Node.js, REST APIs, WebSockets, AWS, Docker,
 
 **Frontend Engineer · React / Next.js · TypeScript · AI-powered products · Web3 · Full-stack opportunities with a frontend focus**
 
-## 📫 Contact
-
-**Phone:** (512) 387-5213
-**Email:** [christianrichardson.finance@gmail.com](mailto:christianrichardson.finance@gmail.com)
-**LinkedIn:** [LinkedIn](#)
-
 ---
 
 ⭐ Feel free to explore my pinned repositories and projects.
